@@ -1,0 +1,26 @@
+.body{
+    background-color: aqua;
+}
+.container{
+    box-sizing: border-box;
+    background-color: rgb(206, 228, 228);
+    height: 150px;
+    width: 100%;
+    margin-left: 40px;
+  
+}
+h1{
+
+    color: rebeccapurple;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+h1:hover{
+    color: blue;
+}
+#clock{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: chocolate;
+}
